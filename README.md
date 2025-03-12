@@ -13,9 +13,9 @@
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tomitom.kontakt@gmail.com)
 
 ### Statystyki
-[![Moje statystyki](https://github-readme-stats.vercel.app/api?username=devtomitom&show_icons=true&theme=dark)](https://github.com/devtomitom)
+[![Moje statystyki](https://github-readme-stats.vercel.app/api?username=devtomitom&show_icons=true&theme=dark)](https://github.com/devtomit)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devtomitom&layout=compact&theme=dark)](https://github.com/devtomitom)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devtomitom&layout=compact&theme=dark)](https://github.com/devtomit)
 
 ### Przyszłe projekty
 🔄 **W przygotowaniu...**  
