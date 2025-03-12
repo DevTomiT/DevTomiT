@@ -1,6 +1,5 @@
 # Cześć 👋 Jestem TomiTom
 
-![Profilowy baner](https://placehold.co/1920x400?text=Witaj+na+moim+profilu!+%F0%9F%91%8B)
 
 ### Kilka słów o mnie
 - 🌱 Aktualnie uczę się robić gry
