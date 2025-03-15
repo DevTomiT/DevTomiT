@@ -15,7 +15,7 @@
 ### Statystyki
 [![Moje statystyki](https://github-readme-stats.vercel.app/api?username=devtomit&show_icons=true&theme=dark)](https://github.com/devtomit)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devtomit&layout=compact&theme=dark)](https://github.com/devtomit)
+
 
 ### Przyszłe projekty
 🔄 **W przygotowaniu...**  
